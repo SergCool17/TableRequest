@@ -1,2 +1,1 @@
-# TableRequest
-Created with CodeSandbox
+Table with thunk API request
