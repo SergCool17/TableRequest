@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+.wrapper {
+  margin: 186px 540px 2240px 148px;
+
+  position: absolute;
+  width: 1232px;
+  height: 820px;
+}
+.App {
+  background: #ffffff;
+  box-shadow: 0px 4px 27px rgba(230, 231, 234, 0.78);
+}

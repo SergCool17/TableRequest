@@ -1,0 +1,17 @@
+.table__pagination {
+  position: relative;
+  top: 500px;
+  text-align: center;
+}
+.table__pagination > span {
+  margin-right: 0.3em;
+  user-select: none;
+  cursor: pointer;
+  color: #474955;
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 137.69%;
+  padding: 20px;
+}

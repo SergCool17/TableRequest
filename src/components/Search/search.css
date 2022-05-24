@@ -1,0 +1,41 @@
+.search {
+  position: absolute;
+  width: 631px;
+  height: 52px;
+  left: 78px;
+  top: 23px;
+
+  background: #5a5c66;
+}
+.search__input {
+  position: absolute;
+  width: 538px;
+  height: 19px;
+  left: 26px;
+  top: 18px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 137.69%;
+  /* or 19px */
+  background: transparent;
+  color: #b3b7bf;
+  border: none;
+}
+.search__button {
+  position: absolute;
+  border: none;
+  background: transparent;
+  color: #ffffff;
+  right: 26px;
+  width: 41px;
+  height: 52px;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+.search__button > .fa-search {
+  background: transparent;
+  color: #ffffff;
+}
